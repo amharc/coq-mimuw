@@ -1,0 +1,6 @@
+My solutions to programming assignments in Coq @ MIMUW, in two courses:
+  * Logic and Type Theory, Summer 2016
+  * Advanced Functional Programming, Summer 2016
+
+All of those assignments consisted of code with holes to be filled, so not every line
+of code is mine ;)
